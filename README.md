@@ -17,7 +17,9 @@ https://pypi.org/project/datasus-fetcher/
 ## 📦 Conjuntos de Dados Disponíveis
 🧮 Base Populacional – IBGE
 BASE-POPULACIONAL-IBGE-POP: Censo e Estimativas
+
 BASE-POPULACIONAL-IBGE-POPS: Estimativas por Sexo e Idade
+
 BASE-POPULACIONAL-IBGE-POPT: Estimativas TCU
 
 ## 🗺️ Base Territorial
@@ -25,16 +27,17 @@ Base Territoriais
 
 Mapas
 
-## Conversões
+## Conversões/Siglas
 
-🏥 CIH – Comunicação de Informação Hospitalar
+### 🏥 CIH – Comunicação de Informação Hospitalar
+
 CIH-CR: Comunicação de Internação Hospitalar
 
 CIHA: Informação Hospitalar e Ambulatorial
 
 CIHA-CIHA: Informação Hospitalar e Ambulatorial
 
-🏢 CNES – Cadastro Nacional de Estabelecimentos de Saúde
+### 🏢 CNES – Cadastro Nacional de Estabelecimentos de Saúde
 CNES-LT: Leitos
 
 CNES-ST: Estabelecimentos
@@ -61,16 +64,16 @@ CNES-EF: Estabelecimento Filantrópico
 
 CNES-GM: Gestão e Metas
 
-🧫 PCE – Programa de Controle da Esquistossomose
+### 🧫 PCE – Programa de Controle da Esquistossomose
 PCE-PCE: Controle da Esquistossomose
 
-🧬 PO – Painel de Oncologia
+### 🧬 PO – Painel de Oncologia
 PO-PO: Painel de Oncologia
 
-🚨 RESP – Notificações
+### 🚨 RESP – Notificações
 RESP: Casos suspeitos de SCZ
 
-🩺 SIA – Informações Ambulatoriais
+### 🩺 SIA – Informações Ambulatoriais
 SIA-AB: Cirurgia Bariátrica
 
 SIA-ABO: Pós Cirurgia Bariátrica
@@ -95,7 +98,7 @@ SIA-PS: Psicossocial
 
 SIA-SAD: Atenção Domiciliar
 
-🏨 SIH – Informação Hospitalar
+### 🏨 SIH – Informação Hospitalar
 SIH-RD: AIH Reduzida
 
 SIH-RJ: AIH Rejeitadas
@@ -104,7 +107,7 @@ SIH-SP: Serviços Profissionais
 
 SIH-ER: AIH com código de erro
 
-⚰️ SIM – Informação de Mortalidade
+### ⚰️ SIM – Informação de Mortalidade
 SIM-DO: Óbitos
 
 SIM-DOEXT: Óbitos por causas externas
@@ -117,7 +120,7 @@ SIM-DOMAT: Óbitos maternos
 
 SIM-DOREXT: Óbitos de residentes no exterior
 
-🦠 SINAN – Agravos de Notificação Compulsória
+### 🦠 SINAN – Agravos de Notificação Compulsória
 <details> <summary>Clique para expandir</summary>
 
 SINAN-ACBI: Acidente com material biológico
@@ -234,20 +237,20 @@ SINAN-ZIKA: Zika Vírus
 
 </details>
 
-👶 SINASC – Nascidos Vivos
+### 👶 SINASC – Nascidos Vivos
 SINASC-DN: Declarações de nascidos vivos (1994–2020)
 
 SINASC-DNEX: Nascidos vivos no exterior (2014–2020)
 
-👩‍⚕️ SISCOLO – Câncer de Colo de Útero
+### 👩‍⚕️ SISCOLO – Câncer de Colo de Útero
 SISCOLO-CC: Citopatológico
 
 SISCOLO-HC: Histopatológico
 
-🧑‍⚕️ SISMAMA – Câncer de Mama
+### 🧑‍⚕️ SISMAMA – Câncer de Mama
 SISMAMA-CM: Citopatológico
 
 SISMAMA-HC: Histopatológico
 
-🤰 SISPRENATAL – Pré-Natal e Puerpério
+### 🤰 SISPRENATAL – Pré-Natal e Puerpério
 SISPRENATAL-PN: Pré-Natal
