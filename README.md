@@ -9,12 +9,12 @@ https://pypi.org/project/datasus-fetcher/
 
 🔗 Microdados – FTP DATASUS
 
+Para começar a usar basta clicar nos scripts acima formato .ipynb e abrir no Colab ou IDE de preferência.
+
 ## 📦 Conjuntos de Dados Disponíveis
 🧮 Base Populacional – IBGE
 BASE-POPULACIONAL-IBGE-POP: Censo e Estimativas
-
 BASE-POPULACIONAL-IBGE-POPS: Estimativas por Sexo e Idade
-
 BASE-POPULACIONAL-IBGE-POPT: Estimativas TCU
 
 ## 🗺️ Base Territorial
