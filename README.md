@@ -9,7 +9,9 @@ https://pypi.org/project/datasus-fetcher/
 
 🔗 Microdados – FTP DATASUS
 
-Para começar a usar basta clicar nos scripts acima formato .ipynb e abrir no Colab ou IDE de preferência.
+### Para começar a usar basta clicar nos scripts acima formato .ipynb e abrir no Colab ou IDE de preferência.
+['Clique aqui para começar a Baixar dados de Agravos do SINAN e Informações Territoriais IBGE Para Análise Espacial'](https://github.com/andrecortez89usp/bases_microdatasus/blob/main/fetch_sinan_base_territorio.ipynb/)
+['Clique aqui para começar a interagir com as bases do CNES'](https://github.com/andrecortez89usp/bases_microdatasus/blob/main/fetch_datasus_cnes.ipynb)
 
 ## 📦 Conjuntos de Dados Disponíveis
 🧮 Base Populacional – IBGE
